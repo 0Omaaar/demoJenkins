@@ -41,10 +41,10 @@ public class PersonService {
 		persons.add(p);
 		
 		p = new Person();
-		p.setId("5");
-		p.setAge(25);
+		p.setId("10");
+		p.setAge(10);
 		p.setFirstName("webhook");
-		p.setLastName("testJenjinsJob");
+		p.setLastName("addedWithCommit");
 		persons.add(p);
 		
 	}
